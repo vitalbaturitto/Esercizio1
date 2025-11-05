@@ -8,10 +8,10 @@ commit  del branch fastForward
 
 commit parallelo master
 
-
 commit di conflitto 
 
 commit del branch conflictBranch
 
+commit giusto
 
 modifiche gitHub
