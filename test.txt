@@ -7,3 +7,5 @@ terzo commit
 commit  del branch fastForward
 
 commit parallelo master
+
+commit di conflitto 
