@@ -3,3 +3,5 @@ primo commit
 secondo commit
 
 terzo commit
+
+commit  del branch fastForward
